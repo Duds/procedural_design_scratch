@@ -1,0 +1,6 @@
+taichi>=1.7.0
+numpy>=1.21.0
+jupyter>=1.0.0
+notebook>=6.4.0
+matplotlib>=3.4.0
+trimesh>=3.9.0
