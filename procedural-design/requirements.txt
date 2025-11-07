@@ -4,3 +4,19 @@ jupyter>=1.0.0
 notebook>=6.4.0
 matplotlib>=3.4.0
 trimesh>=3.9.0
+scikit-image>=0.18.0
+scipy>=1.7.0
+streamlit>=1.28.0
+pytest>=7.0.0
+pytest-cov>=3.0.0
+
+# Additional dependencies for new features
+click>=8.0.0
+streamlit>=1.20.0
+scikit-image>=0.19.0
+scipy>=1.7.0
+pytest>=7.0.0
+pytest-cov>=3.0.0
+black>=22.0.0
+flake8>=4.0.0
+mypy>=0.950
